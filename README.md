@@ -21,7 +21,7 @@ To get started with this project, follow the instructions below:
    Begin by cloning the project repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/wheat-price-prediction.git
+   git clone git@github.com:devbilalkhan/fao-project.git
    cd wheat-price-prediction
 
 2. **Create and Activate the Conda Environment**
