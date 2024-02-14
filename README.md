@@ -26,6 +26,7 @@ To get started with this project, follow the instructions below:
 
 2. **Create and Activate the Conda Environment**
    Use the provided environment.yml file to create a Conda environment with all the required packages:
+    ```sh
     conda env create -f environment.yml
     conda activate wheat-pred-env
   
