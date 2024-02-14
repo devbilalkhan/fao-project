@@ -21,11 +21,12 @@ To get started with this project, follow the instructions below:
    Begin by cloning the project repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/wheat-price-prediction.git
-   cd wheat-price-prediction
+   git clone git@github.com:devbilalkhan/fao-project.git
+   cd fao-project
 
 2. **Create and Activate the Conda Environment**
    Use the provided environment.yml file to create a Conda environment with all the required packages:
+    ```sh
     conda env create -f environment.yml
     conda activate wheat-pred-env
   
